@@ -15,7 +15,7 @@ const InstallApp = () => {
 
   return (
     <div
-      className="w-container mx-auto bg-[#FFAE00] bg-linear-to-r from-[#FFAE00] to-[#FF8A00] md:h-[620px] relative overflow-hidden flex flex-col"
+      className="w-container mx-auto bg-[#FFAE00] bg-linear-to-r from-[#FFAE00] to-[#FF8A00] relative overflow-hidden flex flex-col"
       style={{
         backgroundImage: `url(${BG})`,
         backgroundRepeat: "no-repeat",
